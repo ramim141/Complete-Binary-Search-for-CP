@@ -1,4 +1,4 @@
-# Codeforces Binary Search Solutions
+# Binary Search For CP
 
 This repository contains C++ solutions for various Codeforces problems, focusing on binary search algorithms and related techniques.
 
@@ -6,10 +6,6 @@ This repository contains C++ solutions for various Codeforces problems, focusing
 
 ```
 Complete-Binary-Search-for-CP/
-├── B_Different_Divisors.cpp
-├── B_Interesting_drink.cpp
-├── B_The_Meeting_Place_Cannot_Be_Changed.cpp
-├── B_Worms.cpp
 ├── Floor-Ceil in Sorted Array/
 │   ├── B_Closest_to_the_Left.cpp
 │   └── Thinking_steps.md
@@ -20,11 +16,6 @@ Complete-Binary-Search-for-CP/
 
 ## Files and Folders Description
 
-### Root Level Files
-- **B_Different_Divisors.cpp**: Solution for Codeforces problem B - Different Divisors.
-- **B_Interesting_drink.cpp**: Solution for Codeforces problem B - Interesting Drink.
-- **B_The_Meeting_Place_Cannot_Be_Changed.cpp**: Solution for Codeforces problem B - The Meeting Place Cannot Be Changed.
-- **B_Worms.cpp**: Solution for Codeforces problem B - Worms.
 
 ### Floor-Ceil in Sorted Array/
 This folder contains problems related to finding floor and ceil values in sorted arrays using binary search.
